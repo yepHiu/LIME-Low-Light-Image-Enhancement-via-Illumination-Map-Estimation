@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="FT2000/4 (6a47b09b-2eba-4f8c-bec4-e0b70cd13248)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="FT2000/4 (6a47b09b-2eba-4f8c-bec4-e0b70cd13248)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/my_lime" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-ft20004" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-ft20004" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
